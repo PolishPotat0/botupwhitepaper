@@ -1,0 +1,15 @@
+site_name: Meme Kombat Token Whitepaper
+theme: 
+  name: material
+nav:
+  - Introduction: 'index.md'
+  - Presale: 'presale.md'
+  - Staking During Presale: 'staking-during-presale.md'
+  - Introduction to Staking: 'introduction-to-staking.md'
+  - Tokenomics: 'tokenomics.md'
+  - Technicals: 'technicals.md'
+  - Meme Kombat Roadmap: 'roadmap.md'
+  - Marketing and Community: 'marketing-and-community.md'
+  - Conclusion: 'conclusion.md'
+  - Disclaimer: 'disclaimer.md'
+  - Meme Kombat Links: 'links.md'
