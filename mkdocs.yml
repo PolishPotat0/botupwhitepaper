@@ -4,7 +4,10 @@ theme:
 nav:
   - Introduction: 'index.md'
   - Presale: 'presale.md'
-  - Staking During Presale: 'staking-during-presale.md'
+  - Staking During Presale: 
+    - 'Staking During Presale': 'staking-during-presale.md'
+    - 'Already Purchased? Claim & Stake': 'already-purchased-claim-and-stake.md'
+    - 'First Purchase Buy and Stake': 'first-purchase-buy-and-stake.md'
   - Introduction to Staking: 'introduction-to-staking.md'
   - Tokenomics: 'tokenomics.md'
   - Technicals: 'technicals.md'
